@@ -22,7 +22,20 @@ These services are to be provided in an efficient, cost-effective manner, with t
 
 WHO :
 
-      This SHMS project is mainly for hospital who are facing difficulty in maintaining the records of patients 
+      This SHMS project is mainly for hospital who are facing difficulty in maintaining the records of patients.
+WHAT:
+
+      This SHMS consists of patient information regarding hospital which comprises of “Add information, Edit information, Search Records, View information, Delete information. 
+
+WHERE:
+
+      SHMS helps the professionals in healthcare to check out the clinical documents, diagnosis, patient records, and other relevant things at a single view and therefore results in the healthcare professionals to make decisions at the right time.
+
+HOW:
+
+      This SHMS project is created by using C language.
+
+
 
           
           
