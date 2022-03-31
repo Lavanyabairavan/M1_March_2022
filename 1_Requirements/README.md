@@ -34,6 +34,33 @@ WHERE:
 HOW:
 
       This SbMS project is created by using C language.
+      
+
+                                                                        SWOT ANALYSIS
+Strenght:
+
+      Online  banking  can  trade  between  banks  and  not consider limits about the time and domain in contrast  of the  traditional  banking. This SBMS support Balance enquiry, Adding fund, Cash withdrawal, Online transfer, and Changing password.In addition it reduces the cost of bank and client.This SBMS shares the information between banks and clients.  
+      
+Weakness:
+
+     Focuses mostly on urban areas while the rural regions are left neglected.
+     
+Opportunities:
+    
+    Social evolution, Technological advancements, Rural area expansions oppurtunities
+    
+Threats:
+
+    Lack of proper cyber security, Unencrypted data, Malware.
+    
+                                                        HIGH LEVEL REQUIREMENTS
+                                                        
+                                                        
+    
+    
+    
+    
+    
 
 
 
