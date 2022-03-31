@@ -36,7 +36,9 @@ HOW:
       This SbMS project is created by using C language.
       
 
-                                                                        SWOT ANALYSIS
+                                                                        
+SWOT ANALYSIS 
+
 Strenght:
 
       Online  banking  can  trade  between  banks  and  not consider limits about the time and domain in contrast  of the  traditional  banking. This SBMS support Balance enquiry, Adding fund, Cash withdrawal, Online transfer, and Changing password.In addition it reduces the cost of bank and client.This SBMS shares the information between banks and clients.  
@@ -53,7 +55,25 @@ Threats:
 
     Lack of proper cyber security, Unencrypted data, Malware.
     
-                                                        HIGH LEVEL REQUIREMENTS
+HIGH LEVEL REQUIREMENTS
+
+1.Balance Enquiry-Account holder enquires the balance in their  account-Status(Implemented)
+2.Adding Fund-Account holder can add fund to their account-Status(Implemented)
+3.Cash Withdrawal-Accound holder can withdraw cash from their account-Status(Implememted)
+4.Online transfer-Account holder can do online banking-Status(Implemented)
+5.Changing Password-Account holder can change the password-Status(Implemented)
+
+
+LOW LEVEL REQUIREMENTS
+
+1.Security	-It should secure because only registered user can this system	-Status(Implemented)
+2.Platform	- The system can be work on any operating system like windows or linus	-Status(Implemented)
+3.Performanace -	This SBMS should handles the large amount of client data	- Status(Implemented)
+
+
+
+
+
                                                         
                                                         
     
