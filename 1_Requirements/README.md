@@ -1,7 +1,5 @@
 REQUIREMENTS 
 
- 
-
 INTRODUCTION 
 
   Simple Online bank management system project is a program that keeps track of a client’s bank account. This project demonstrates the operation of a banking account system and covers the essential functions of bank management software. It develops a project for resolving a customer’s financial applications in a banking environment to meet the needs of an end banking user by providing multiple ways to complete banking chores. Additionally, this project is to provide additional features to the user’s workspace that are not available in a traditional banking project. The project’s bank management system is built on cutting-edge technologies. This project’s main goal is to create software for a bank account management system. This project was designed to make it simple and quick to complete previously impossible processes with manual systems which are now possible with this software.
@@ -71,7 +69,6 @@ HIGH LEVEL REQUIREMENTS
 
 5.  Changing Password:
          Account holder can change the password (Status Implemented)
-
 
 LOW LEVEL REQUIREMENTS
 
