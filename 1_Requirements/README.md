@@ -79,7 +79,7 @@ LOW LEVEL REQUIREMENTS
          The system can be work on any operating system like windows or linus	(Status Implemented)
 
 3.  Performanace:
-        	This SBMS should handles the large amount of client data	(Status Implemented)
+        	This SBMS should handles the large amount of client data (Status Implemented)
 
 
 
