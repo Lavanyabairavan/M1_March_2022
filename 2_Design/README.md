@@ -1,21 +1,21 @@
 
 # DESIGN
 
-# 1. Structural Diagram
+# 1.  Structural Diagram
     
-   # Class Diagram
+    Class Diagram
    
-   # Component Diagram
+    Component Diagram
    
-   # Deployment Diagram
+    Deployment Diagram
    
-# 2. Behavioral Diagram
+# 2.  Behavioral Diagram
 
-   # Use Case Diagram
+    Use Case Diagram
    
-   # Activity Diagram
+    Activity Diagram
    
-   # State Chart Diagram
+    State Chart Diagram
    
    
 Implemented using  - "MICROSOFT VISIO"
