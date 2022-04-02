@@ -80,24 +80,3 @@ LOW LEVEL REQUIREMENTS
 
 3.  Performanace:
          This SBMS should handles the large amount of client data (Status Implemented)
-     
-        
-
-
-
-
-
-                                                        
-                                                        
-    
-    
-    
-    
-    
-
-
-
-          
-          
-        
-                                           
