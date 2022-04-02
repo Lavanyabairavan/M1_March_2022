@@ -141,6 +141,4 @@ int main(){
 		}
 		printf("\n\n***Thank you for banking with Lavan. bank***\n\n");
 	}
-	
-	return 0;
 }
