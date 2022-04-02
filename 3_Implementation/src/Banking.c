@@ -116,7 +116,7 @@ int main(){
 						break;
 					case 5:
 						printf("\n\nPlease enter your old password:\t");
-						scanf("%50s",password);
+						scanf("%49s",password);
 						if(!strcmp(password,user.password)){
 							printf("\n\nPlease enter your new password:\t");
 							scanf("%49s",password);
