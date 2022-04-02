@@ -8,3 +8,5 @@ CODE QUALITY BADGES
 CODE REVIEW BY CODIGA
 
 https://app.codiga.io/project/32306/dashboard
+
+https://app.codacy.com/gh/Lavanyabairavan/M1_March_2022/dashboard?branch=code-review
