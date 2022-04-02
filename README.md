@@ -8,4 +8,4 @@ CODE QUALITY BADGES
 
 CODE REVIEW BY CODIGA
 
-https://app.codiga.io/github/pullrequest/32306/218538/
+https://app.codiga.io/project/32306/dashboard
