@@ -16,11 +16,11 @@ int main(){
 	if(opt == 1){
 		system("clear");
 		printf("\nEnter your account number:\t");
-		scanf("%50s",user.ac);
+		scanf("%49s",user.ac);
 		printf("Enter your phone number:\t");
-		scanf("%50s",user.phone);
+		scanf("%49s",user.phone);
 		printf("Enter your new password:\t");
-		scanf("%50s",user.password);
+		scanf("%49s",user.password);
 		user.balance=0;
 		strcpy(filename,user.phone);
 		fp=fopen(strcat(filename,".dat"),"w");
@@ -32,9 +32,9 @@ int main(){
 	else if(opt == 2){
 		system("clear");
 		printf("\nPhone No.:\t");
-		scanf("%50s",phone);
+		scanf("%49s",phone);
 		printf("Password:\t");
-		scanf("%50s",password);
+		scanf("%49s",password);
 		fp = fopen(strcat(phone,".dat"),"r");
 		if(fp == NULL) printf("Account number not registered");
 		else {
@@ -116,10 +116,10 @@ int main(){
 						break;
 					case 5:
 						printf("\n\nPlease enter your old password:\t");
-						scanf("%50s",password);
+						scanf("%49s",password);
 						if(!strcmp(password,user.password)){
 							printf("\n\nPlease enter your new password:\t");
-							scanf("%50s",password);
+							scanf("%49s",password);
 							strcpy(user.password,password);
 							strcpy(filename,user.phone);
 							fp = fopen(strcat(filename,".dat"),"w");
@@ -141,6 +141,3 @@ int main(){
 		}
 		printf("\n\n***Thank you for banking with Lavan. bank***\n\n");
 	}
-	
-	
-}
