@@ -1,5 +1,6 @@
 # DESIGN
-* Structural Diagram
+
+Structural Diagram
     
     Class Diagram
    
@@ -7,7 +8,7 @@
    
     Deployment Diagram
    
-* Behavioral Diagram
+Behavioral Diagram
 
     Use Case Diagram
    
