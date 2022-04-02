@@ -32,9 +32,9 @@ int main(){
 	else if(opt == 2){
 		system("clear");
 		printf("\nPhone No.:\t");
-		scanf("%49s",phone);
+		scanf("%50s",phone);
 		printf("Password:\t");
-		scanf("%49s",password);
+		scanf("%50s",password);
 		fp = fopen(strcat(phone,".dat"),"r");
 		if(fp == NULL) printf("Account number not registered");
 		else {
