@@ -15,9 +15,9 @@ int main();
 
 struct user {
 
-    char phone[50];
-	char ac[50];
-	char password[50];
+    char phone[49];
+	char ac[49];
+	char password[49];
 	float balance;
     };
 
