@@ -16,11 +16,11 @@ int main(){
 	if(opt == 1){
 		system("clear");
 		printf("\nEnter your account number:\t");
-		scanf("%50s",user.ac);
+		scanf("%49s",user.ac);
 		printf("Enter your phone number:\t");
-		scanf("%50s",user.phone);
+		scanf("%49s",user.phone);
 		printf("Enter your new password:\t");
-		scanf("%50s",user.password);
+		scanf("%49s",user.password);
 		user.balance=0;
 		strcpy(filename,user.phone);
 		fp=fopen(strcat(filename,".dat"),"w");
@@ -83,7 +83,7 @@ int main(){
 					
 					case 4:
 						printf("Please enter the phone number to trasnfer balance:\t");
-						scanf("%50s",phone);
+						scanf("%49s",phone);
 						printf("Enter the amount to transfer:\t");
 						scanf("%d",&amount);
 						if(amount > user.balance) printf("\nSorry insufficent balance");
@@ -119,7 +119,7 @@ int main(){
 						scanf("%50s",password);
 						if(!strcmp(password,user.password)){
 							printf("\n\nPlease enter your new password:\t");
-							scanf("%50s",password);
+							scanf("%49s",password);
 							strcpy(user.password,password);
 							strcpy(filename,user.phone);
 							fp = fopen(strcat(filename,".dat"),"w");
