@@ -139,7 +139,7 @@ int main(){
 				printf("Invalid password");
 			}	
 		}
-		printf("\n\n***Thank you for banking with Lavanya. bank***\n\n");
+		printf("\n\n***Thank you for banking with Lavan. bank***\n\n");
 	}
 	
 	return 0;
