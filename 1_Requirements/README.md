@@ -70,7 +70,6 @@ HIGH LEVEL REQUIREMENTS
 5.  Changing Password:
         Account holder can change the password (Status Implemented)
 
-
 LOW LEVEL REQUIREMENTS
 
 1.  Security	:
